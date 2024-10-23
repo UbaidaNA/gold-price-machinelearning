@@ -1,4 +1,4 @@
-# 🧈Gold Prediction App 
+# 🧈Gold Price Prediction App 
 ```
 ⬆️ (Replace above with your app's name)
 ```
