@@ -7,7 +7,7 @@ This is a gold price prediction app
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ub-machinelearning.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gold-price-machinelearning.streamlit.app/)
 
 ## GitHub Codespaces
 
